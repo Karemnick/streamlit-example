@@ -12,8 +12,7 @@ import pandas as pd
 import preprocessor as p
 import nltk
 from nltk.tokenize import word_tokenize
-import matplotlib.pyplot as plt
-from PIL import Image
+import matplotlib.pyplot as from PIL import Image
 import re
 import plotly.express as px
 from user import df_tweet
