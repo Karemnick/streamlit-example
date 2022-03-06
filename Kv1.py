@@ -5,7 +5,7 @@ Created on Sat Mar  5 18:39:42 2022
 @author: Karem Velez
 """
 import streamlit as st
-import twepip instalar git+https://github.com/tweepy/tweepy.git
+import tweepy
 import pandas as pd
 import preprocessor as p
 import nltk
