@@ -5,7 +5,6 @@ Created on Sat Mar  5 18:39:42 2022
 @author: Karem Velez
 """
 import streamlit as st
-import tweepy
 from textblob import TextBlob
 from wordcloud import WordCloud
 import pandas as pd
